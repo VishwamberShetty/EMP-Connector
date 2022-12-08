@@ -93,3 +93,6 @@ For a full example, see [LoginExample.java](src/main/java/com/salesforce/emp/con
 ## Documentation
 For more information about the components of the EMP Connector and a walkthrough, see the [Java Client Example](https://developer.salesforce.com/docs/atlas.en-us.api_streaming.meta/api_streaming/code_sample_java_client_intro.htm)
 in the *Streaming API Developer Guide*.
+
+## VSS Execution Script for Demo
+java -jar target/emp-connector-0.0.1-SNAPSHOT-phat.jar vishwamber.s@prudentpocorg1.com Welcome1zgLju2xyLhFuED9TzImaveSF /topic/InvoiceStatementUpdates
